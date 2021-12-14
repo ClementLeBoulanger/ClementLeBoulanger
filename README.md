@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Clément 👋
 
-<!--
-**ClementLeBoulanger/ClementLeBoulanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Ruby On Rails Developper since the beginning of 2021🚀 ! 
 
-Here are some ideas to get you started:
+I am familiar with the following programming languages 💪:
+  * **HTML** / **CSS** / **SCSS**
+  * **Javascript**
+  * **Ruby**
+  * **Ruby on Rails** (A Ruby Framework, using the MVC pattern)
+  * **SQL** (PostgreSQL & MySQL)
+  
+🌱 At the moment I am learning and consolidating my knowledge on **React.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❔ Ask me about whatever you want ! 
+
+💬 You can contact me by :
+  * [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-le-boulanger/).
+  * [Mail](hello@clement-leboulanger.com).
+
+🚋 Visit my [Portfolio](https://clement-leboulanger.com) as well.
+
