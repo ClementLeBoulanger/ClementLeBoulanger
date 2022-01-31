@@ -17,5 +17,5 @@ I am familiar with the following programming languages 💪:
   * [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-le-boulanger/).
   * [Mail](hello@clement-leboulanger.com).
 
-🚋 Visit my [Portfolio](https://clement-leboulanger.com) as well.
+🚋 Visit my [Portfolio](www.clement-leboulanger.com) as well.
 
