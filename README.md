@@ -21,3 +21,6 @@ I am familiar with the following programming languages 💪:
 
 🚋 Visit my [Portfolio](https://www.clement-leboulanger.com) as well.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClementLeBoulanger&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementLeBoulanger)](https://github.com/anuraghazra/github-readme-stats)
