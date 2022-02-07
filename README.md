@@ -3,10 +3,12 @@
 I'm a Ruby On Rails Developper since the beginning of 2021🚀 ! 
 
 I am familiar with the following programming languages 💪:
-  * **HTML** / **CSS** / **SCSS**
-  * **Javascript**
+
+  * **Ruby on Rails**
   * **Ruby**
-  * **Ruby on Rails** (A Ruby Framework, using the MVC pattern)
+  * **React / Redux**
+  * **Javascript**
+  * **HTML** / **CSS** / **SCSS**
   * **SQL** (PostgreSQL & MySQL)
   
 🌱 At the moment I am learning and consolidating my knowledge on **React.js**
