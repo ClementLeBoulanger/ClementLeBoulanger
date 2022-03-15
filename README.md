@@ -7,6 +7,7 @@ I am familiar with the following programming languages 💪:
   * **Ruby on Rails**
   * **Ruby**
   * **React / Redux**
+  * **Strapi (Node.js Headless CMS)**
   * **Javascript**
   * **HTML** / **CSS** / **SCSS**
   * **SQL** (PostgreSQL & MySQL)
