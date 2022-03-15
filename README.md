@@ -6,10 +6,12 @@ I am familiar with the following programming languages 💪:
 
   * **Ruby on Rails**
   * **Ruby**
+  * **Strapi** (Node.js Headless CMS)
   * **React / Redux**
-  * **Strapi (Node.js Headless CMS)**
+  * **StimulusJS**
   * **Javascript**
   * **HTML** / **CSS** / **SCSS**
+  * **Bootstrap**
   * **SQL** (PostgreSQL & MySQL)
 
 I also use :
