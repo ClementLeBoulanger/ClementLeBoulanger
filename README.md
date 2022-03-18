@@ -9,7 +9,7 @@ I am familiar with the following programming languages 💪:
   * **Strapi** (Node.js Headless CMS)
   * **React / Redux**
   * **StimulusJS**
-  * **Javascript**
+  * **Javascript** (Webpack)
   * **HTML** / **CSS** / **SCSS**
   * **Bootstrap**
   * **SQL** (PostgreSQL & MySQL)
