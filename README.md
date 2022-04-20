@@ -7,7 +7,7 @@ I am familiar with the following programming languages 💪:
   * **Ruby on Rails**
   * **Ruby**
   * **Strapi** (Node.js Headless CMS)
-  * **React / Redux**
+  * **React.JS / Next.JS**
   * **StimulusJS**
   * **Javascript** (Webpack)
   * **HTML** / **CSS** / **SCSS**
@@ -21,7 +21,7 @@ I also use :
   * **Postman**
   * **Git / Git hub**
 
-🌱 At the moment I am learning and consolidating my knowledge on **React.js**
+🌱 At the moment I am learning and consolidating my knowledge on **Next.JS**
 
 💬 You can contact me by :
   * [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-le-boulanger/)
