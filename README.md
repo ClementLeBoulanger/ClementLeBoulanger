@@ -4,12 +4,14 @@ I'm a Fullstack Developper since the beginning of 2021🚀 !
 
 I am familiar with the following programming languages 💪:
 
+  * **React.JS / Next.JS**
+  * **Docker & Docker Compose**
   * **Ruby on Rails**
   * **Ruby**
   * **Strapi** (Node.js Headless CMS)
-  * **React.JS / Next.JS**
   * **StimulusJS**
   * **Javascript** (Webpack)
+  * **Green Sock**
   * **HTML** / **CSS** / **SCSS**
   * **Bootstrap**
   * **SQL** (PostgreSQL & MySQL)
@@ -21,7 +23,7 @@ I also use :
   * **Postman**
   * **Git / Git hub**
 
-🌱 At the moment I am learning and consolidating my knowledge on **Next.JS**
+🌱 At the moment I am consolidating my knowledge on **Next.JS**
 
 💬 You can contact me by :
   * [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-le-boulanger/)
