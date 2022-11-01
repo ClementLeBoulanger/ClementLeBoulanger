@@ -1,6 +1,6 @@
 ### Hi, I'm Clément 👋
 
-I'm a Fullstack Developper since the beginning of 2021🚀 ! 
+I'm a Fullstack Developper 🚀 ! 
 
 I am familiar with the following programming languages 💪:
 
@@ -23,13 +23,10 @@ I also use :
   * **Postman**
   * **Git / Git hub**
 
-🌱 At the moment I am consolidating my knowledge on **Next.JS**
-
 💬 You can contact me by :
   * [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-le-boulanger/)
   * [Mail](hello@clement-leboulanger.com)
 
-🚋 Visit my [Portfolio](https://www.clement-leboulanger.com) as well.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClementLeBoulanger&show_icons=true)
 
