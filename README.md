@@ -15,6 +15,7 @@ I am familiar with the following programming languages 💪:
   * **HTML** / **CSS** / **SCSS**
   * **Bootstrap**
   * **SQL** (PostgreSQL & MySQL)
+  * **GraphQL** (Apollo)
 
 I also use :
   
