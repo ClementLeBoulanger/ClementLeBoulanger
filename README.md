@@ -5,17 +5,12 @@ I'm a Fullstack Developper 🚀 !
 I am familiar with the following programming languages 💪:
 
   * **React.JS / Next.JS**
-  * **Docker & Docker Compose**
   * **Ruby on Rails**
-  * **Ruby**
   * **Strapi** (Node.js Headless CMS)
   * **StimulusJS**
-  * **Javascript** (Webpack)
-  * **Green Sock**
-  * **HTML** / **CSS** / **SCSS**
-  * **Bootstrap**
   * **SQL** (PostgreSQL & MySQL)
   * **GraphQL** (Apollo)
+  * **Docker & Docker Compose**
 
 I also use :
   
