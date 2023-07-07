@@ -5,6 +5,7 @@ I'm a Fullstack Developper 🚀 !
 I am familiar with the following programming languages 💪:
 
   * **React.JS / Next.JS**
+  * **Typescript**
   * **Ruby on Rails**
   * **Strapi** (Node.js Headless CMS)
   * **StimulusJS**
@@ -18,6 +19,7 @@ I also use :
   * **Notion**
   * **Postman**
   * **Git / Git hub**
+  * **Jest**
 
 💬 You can contact me by :
   * [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-le-boulanger/)
