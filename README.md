@@ -26,4 +26,3 @@ I also use :
   * [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-le-boulanger/)
   * [Mail](hello@clement-leboulanger.com)
 
-![UML Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/ClementLeBoulanger/ClementLeBoulanger/main/diagram.uml)
