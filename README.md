@@ -1,28 +1,35 @@
-### Hi, I'm Clément 👋
+<h2 align="center">👋 Hi, I'm Clément Le Boulanger</h2>
 
-I'm a Fullstack Developper 🚀 ! 
+<p align="center">
+  <em>Passionate Fullstack Developer crafting robust web and mobile solutions 🚀</em>
+</p>
 
-I am familiar with the following programming languages 💪:
+---
 
-  * **React.JS / Next.JS**
-  * **React Native**
-  * **Typescript**
-  * **Ruby on Rails**
-  * **Strapi** (Node.js Headless CMS)
-  * **StimulusJS**
-  * **SQL** (PostgreSQL & MySQL)
-  * **GraphQL** (Apollo)
-  * **Docker & Docker Compose**
+### 💼 Skills
 
-I also use :
-  
-  * **Figma**
-  * **Notion**
-  * **Postman**
-  * **Git / Git hub**
-  * **Jest**
+#### Languages & Frameworks:
+- **JavaScript/TypeScript**:
+  - React.js / Next.js
+  - React Native
+  - Node.js (with Strapi)
+  - StimulusJS
+- **Ruby**: Ruby on Rails
+- **SQL**: PostgreSQL & MySQL
+- **APIs**: GraphQL (Apollo)
 
-💬 You can contact me by :
-  * [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-le-boulanger/)
-  * [Mail](hello@clement-leboulanger.com)
+#### Tools & Technologies:
+- **Containerization**: Docker & Docker Compose
+- **Testing**: Jest
+- **Design**: Figma
+- **Collaboration & Version Control**:
+  - Notion
+  - Postman
+  - Git / GitHub
+
+### 🌐 Connect with Me
+
+- 📫 **Email**: [clement.leboulanger@gmail.com](mailto:clement.leboulanger@gmail.com)
+- 💼 **LinkedIn**: [Clément Le Boulanger](https://www.linkedin.com/in/cl%C3%A9ment-le-boulanger/)
+
 
