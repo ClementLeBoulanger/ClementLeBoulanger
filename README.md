@@ -12,8 +12,9 @@
 - **JavaScript/TypeScript**:
   - React.js / Next.js
   - React Native
-  - Node.js (with Strapi)
+  - Node.js
   - StimulusJS
+  - AdonisJS
 - **Ruby**: Ruby on Rails
 - **SQL**: PostgreSQL & MySQL
 - **APIs**: GraphQL (Apollo)
